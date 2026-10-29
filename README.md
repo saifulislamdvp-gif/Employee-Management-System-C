@@ -54,10 +54,12 @@ This project helped me practice:
 
 
 ⭐ If you like this project, give it a star!
-### 📸 Screenshots
+## 📸 Screenshots
 
-**Main Menu:**
-![Main Menu](codeblocks-manu.jpeg)
+**1. Main Menu**
+![Main Menu](Codeblocks-menu.jpeg)
+*Menu driven system with 6 options: Add, Display, Search, Update, Delete, Exit*
 
-**Add Employee:**
-![Add Employee](Codeblocks-add.jpeg
+**2. Add Employee**
+![Add Employee](Codeblocks-add.jpeg)
+*Employee data saved successfully in employee.dat file*
