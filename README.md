@@ -58,8 +58,8 @@ This project helped me practice:
 
 **1. Main Menu**
 ![Main Menu](Codeblocks-menu.jpeg)
-*Menu driven system with 6 options: Add, Display, Search, Update, Delete, Exit*
+*Menu driven system with 6 options*
 
 **2. Add Employee**
 ![Add Employee](Codeblocks-add.jpeg)
-*Employee data saved successfully in employee.dat file*
+*Employee data saved successfully*
