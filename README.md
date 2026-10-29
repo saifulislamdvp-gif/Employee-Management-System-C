@@ -54,3 +54,10 @@ This project helped me practice:
 
 
 ⭐ If you like this project, give it a star!
+### 📸 Screenshots
+
+**Main Menu:**
+![Main Menu](codeblocks-manu.jpeg)
+
+**Add Employee:**
+![Add Employee](Codeblocks-add.jpeg
