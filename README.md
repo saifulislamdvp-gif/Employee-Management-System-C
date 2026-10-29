@@ -61,5 +61,5 @@ This project helped me practice:
 *Menu driven system with 6 options*
 
 **2. Add Employee**
-![Add Employee](Codeblocks-add.jpeg)
+![Add Employee](https://github.com/saifulislamdvp-gif/Employee-Management-System-C/blob/main/Codeblocks-add.jpeg)
 *Employee data saved successfully*
